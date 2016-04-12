@@ -1,3 +1,10 @@
+<!--
+* Basic Survey Website using php
+* by Johan Setyobudi
+* jsetyobudi@gmail.com
+* sety0002@algonquinlive.com 
+* April 11, 2016
+-->
 <?php
 
 //Used to throw mysqli_sql_exceptions for database errors

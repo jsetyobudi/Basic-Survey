@@ -1,3 +1,10 @@
+/*
+* Basic Survey Website using php
+* by Johan Setyobudi
+* jsetyobudi@gmail.com
+* sety0002@algonquinlive.com 
+* April 11, 2016
+*/
 CREATE DATABASE survey;
 GRANT USAGE ON *.* TO survey@localhost IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON survey.* TO survey@localhost;
